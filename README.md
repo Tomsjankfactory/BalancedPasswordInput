@@ -4,7 +4,7 @@
 
 Balanced Password Input: A Monument to UI Sadism
 An exercise in how far we can push the boundaries of user hostility while still technically calling it "functional." This component forces users to enter passwords by balancing a virtual ball on a tilting bar of characters, because apparently standard password fields weren't frustrating enough.
-Features (or "Ways to Make Users Question Their Life Choices")
+# Features (or "Ways to Make Users Question Their Life Choices")
 
 Physics-based character selection: A virtual ball that responds to gravity on a tilting bar
 Multi-layout keyboard support: Six different keyboard layouts (US, UK, German, French, Spanish, Dutch) for international users to suffer equally
