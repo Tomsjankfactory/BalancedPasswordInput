@@ -10,9 +10,10 @@ Audio feedback: Optional "Sound Torture" mode that plays a unique note for each 
 Hover-to-submit: Because clicking buttons is so 2023
 Microscopic character display: Special characters rendered at eye-straining font sizes
 
-Technical Details
+# Technical Details
 Built using React with zero consideration for user experience. Implements Web Audio API for sound generation and requestAnimationFrame for the physics simulation. Uses refs to track state between animation frames without triggering unnecessary re-renders.
-Use Cases
+
+# Use Cases
 
 Ensuring your application has a 100% abandonment rate
 Testing the outer limits of human patience
@@ -20,8 +21,8 @@ Making standard CAPTCHA systems seem user-friendly by comparison
 Demonstrating to UX design students what NOT to do
 Passive-aggressive revenge on users who complained about your previous designs
 
-Installation
+# Installation
 Copynpm install balanced-password-input
 Then seek professional help, because anyone who would willingly use this component clearly needs it.
-License
+# License
 MIT, because even we're not cruel enough to use a proprietary license and prevent you from fixing this abomination.RetryClaude can make mistakes. Please double-check responses.
