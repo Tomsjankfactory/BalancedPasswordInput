@@ -1,5 +1,7 @@
 # BalancedPasswordInput
 
+![PasswordGif](https://github.com/user-attachments/assets/170b0a75-5261-42d8-b31f-28ffaa7725a8)
+
 Balanced Password Input: A Monument to UI Sadism
 An exercise in how far we can push the boundaries of user hostility while still technically calling it "functional." This component forces users to enter passwords by balancing a virtual ball on a tilting bar of characters, because apparently standard password fields weren't frustrating enough.
 Features (or "Ways to Make Users Question Their Life Choices")
@@ -17,6 +19,7 @@ Built using React with zero consideration for user experience. Implements Web Au
 
 Ensuring your application has a 100% abandonment rate
 Testing the outer limits of human patience
+
 Making standard CAPTCHA systems seem user-friendly by comparison
 Demonstrating to UX design students what NOT to do
 Passive-aggressive revenge on users who complained about your previous designs
